@@ -1,7 +1,15 @@
-### Hi there, I'm Yusuf! 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33E655&background=00000000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Yusuf+%F0%9F%91%8B;HR+Manager+turning+into+Software+Engineer;C%2B%2B+Developer+Loading...;Ready+for+Global+Projects+%F0%9F%8C%8D" alt="Typing SVG" />
+</div>
 
-🚀 **HR Manager turning into Software Engineer**
-Ben teknolojinin mutfağına geçmeye karar vermiş, Polonya hedefli çalışan bir Yazılım Mühendisi adayıyım. İK tecrübem ile teknik yeteneklerimi birleştirip hibrit çözümler üretiyorum.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yusuffcanlii&style=flat-square&color=blue" alt="Profile Views" />
+</div>
+
+---
+
+### 🚀 **About Me**
+**HR Manager turning into Software Engineer** Ben teknolojinin mutfağına geçmeye karar vermiş, global hedefleri olan bir Yazılım Mühendisi adayıyım. İK tecrübem ile teknik yeteneklerimi birleştirip hibrit çözümler üretiyorum.
 
 ---
 
@@ -28,5 +36,5 @@ Ben teknolojinin mutfağına geçmeye karar vermiş, Polonya hedefli çalışan 
 ---
 
 📫 **Connect with me**
-* Hedef: Global projelerde (Polonya/AB) C++ Developer olarak yer almak.
+* Hedef: Global projelerde (Remote/Relocation) C++ Developer olarak yer almak.
 * Odak: Network Security, Automation, Backend Development.
