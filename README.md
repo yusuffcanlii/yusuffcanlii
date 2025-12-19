@@ -9,7 +9,8 @@
 ---
 
 ### 🚀 **About Me**
-**HR Manager turning into Software Engineer** Ben teknolojinin mutfağına geçmeye karar vermiş, global hedefleri olan bir Yazılım Mühendisi adayıyım. İK tecrübem ile teknik yeteneklerimi birleştirip hibrit çözümler üretiyorum.
+**HR Manager transitioning to Software Engineer**
+Leveraging my management experience in Human Resources, I am transitioning into Software Engineering to build hybrid solutions. I combine my strategic background with technical skills in C++ and Python to develop secure, efficient, and globally standardized software.
 
 ---
 
@@ -36,5 +37,5 @@
 ---
 
 📫 **Connect with me**
-* Hedef: Global projelerde (Remote/Relocation) C++ Developer olarak yer almak.
-* Odak: Network Security, Automation, Backend Development.
+* **Target:** To work as a C++ Developer in global projects (Remote/Relocation).
+* **Focus:** Network Security, Automation, Backend Development.
