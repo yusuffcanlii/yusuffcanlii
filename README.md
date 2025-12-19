@@ -10,7 +10,7 @@
 
 ### 🚀 **About Me**
 **HR Manager transitioning to Software Engineer**
-Leveraging my management experience in Human Resources, I am transitioning into Software Engineering to build hybrid solutions. I combine my strategic background with technical skills in C++ and Python to develop secure, efficient, and globally standardized software.
+Leveraging my management experience and **M.Sc. in Labor Economics**, I am transitioning into Software Engineering to build hybrid solutions. I combine my strategic background with technical skills in C++ and Python to develop secure, efficient, and globally standardized software.
 
 ---
 
